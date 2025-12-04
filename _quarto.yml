@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs   # important for GitHub Pages
 
+
 website:
   title: "Karl-Emil Bendtsen"
   navbar:
