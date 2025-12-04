@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Karl-Emil Bendtsen",
-    "section": "",
-    "text": "Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is on bureaucracy, discretion, policy uptake, and legal complexity."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,17 +7,17 @@
     "text": "About this site"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Karl-Emil Bendtsen",
+    "section": "",
+    "text": "Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is on bureaucracy, discretion, policy uptake, and legal complexity."
+  },
+  {
     "objectID": "index.html#working-papers",
     "href": "index.html#working-papers",
     "title": "Karl-Emil Bendtsen",
     "section": "Working papers",
     "text": "Working papers\n\nWomen’s Impact through the Policy Process: Different Preferences and Agendas – Same Outcomes with Karl-Emil Svenningsen Bendtsen & Lene Holm Pedersen. Resubmitted to Political Science Research & Methods.\n“Another title”, Journal, year."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Karl-Emil Bendtsen",
-    "section": "Publications",
-    "text": "Publications\n\n“Another title”, Journal, year."
   }
 ]
