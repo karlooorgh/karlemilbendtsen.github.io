@@ -23,17 +23,20 @@ about:
 
 Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is on bureaucracy, discretion, policy uptake, legal complexity, digitalization and the use of AI in public administrations and politics.
 
+## Publications
+
+- *Increasing take-up of social benefits: a meta-analysis of field experiments* (Journal of Policy Analysis and Managment)
 
 
 ## Working papers
-
-- *Increasing take-up of social benefits: a meta-analysis of field experiments* (Journal of Policy Analysis and Managment)
 
 - *Women’s Impact through the Policy Process: Different Preferences and Agendas – Same Outcomes* with Frederik Klaaborg Kjøller & Lene Holm Pedersen. (Resubmitted to Political Science Research & Methods)
 
 - *Public Administration Beyond Public Administration Journals* with Asmus Leth Olsen & Paul van Leeuwen. (Conditionally accepted at PS: Political Science and Politics)
 
 - *Longer Laws, Better Service? Legislative Complexity and Bureaucratic Quality* with Jonas Krogh Madsen
+
+- *Arbitrary Bureaucratic Decisions* with Mogens Jin Pedersen & Florian Keppeler
 
 - *Noise in Administrative Decision-Making: Public Administration’s Unseen Error and AI’s Role in Enhancing Personnel Selection Consistency* with Mogens Jin Pedersen & Florian Keppeler
 
