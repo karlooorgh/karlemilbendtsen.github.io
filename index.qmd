@@ -21,7 +21,7 @@ about:
       href: "https://bsky.app/profile/karlemilbendtsen.bsky.social" 
 ---
 
-Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is on bureaucracy, discretion, policy uptake, legal complexity, digitalization and the use of AI in public administrations and politics.
+Hi! I am a PhD student at the Department of Political Science at the University of Copenhagen. My research is mainly on bureaucracy, discretion, policy uptake, legal complexity, digitalization and the use of AI in public administrations and politics. I sometimes also do reserach on electoral systems and municipal politics. 
 
 ## Publications
 
